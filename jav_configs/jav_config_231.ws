@@ -69,4 +69,4 @@ viewerversion=124
 win_sub_version=1
 window_preferredheight=600
 window_preferredwidth=800
-worldlist=127.0.0.1
+worldlist=https://oldschool.runescape.com/slr.ws
